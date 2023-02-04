@@ -1,7 +1,6 @@
 ### Hi👋I’m darkchirps(暗黑啾啾)⚡ 
-<p align="center"> 
-  <a href="https://sunguoqi.com/"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=暗黑啾啾;暗黑啾啾&center=true&size=27"> </a> </p>
+<p align="center"> 暗黑啾啾</p>
+
 
 <h1 align="center"> 
   <a href="https://sunguoqi.com/"> 
