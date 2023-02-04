@@ -1,5 +1,4 @@
-### Hi👋I’m darkchirps(暗黑啾啾)⚡ 
-<p align="center"> 暗黑啾啾</p>
+<p align="center"> Hi👋I’m darkchirps(暗黑啾啾)⚡</p>
 
 
 <h1 align="center"> 
