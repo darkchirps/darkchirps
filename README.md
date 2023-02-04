@@ -1,9 +1,3 @@
-# <center> LDC </center>
-
-## title title title
-
-<center> GRANT </center> 
-**blablablablabalbalbalab**
 ### Hi👋I’m darkchirps(暗黑啾啾)⚡ 
 <h1 align="center"> 
   <a href="https://sunguoqi.com/"> 
