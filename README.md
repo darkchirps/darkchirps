@@ -15,22 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p id="aa"></p>
-<div style="display:none" id="w">人生最美的事情就是能和你相遇！</div>
-<script src="jquery.min.js"></script>
-<script type="text/javascript">
-    window.onload = type;
-    var index = 0;
-    var word = $("#w").html();
-    function type(){
-        $("#aa").html(word.substring(0,index++));
-        if(index > word.length) {
-            return;
-        } else {
-            setTimeout(type,50);
-        };
-    }
-</script>
+
 
 <div align="center"> <img src="https://metrics.lecoq.io/darkchirps?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
@@ -38,3 +23,4 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div>
