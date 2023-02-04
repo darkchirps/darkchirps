@@ -1,5 +1,8 @@
 ### Hi👋I’m darkchirps(暗黑啾啾)⚡ 
-<p align="center"> ###暗黑啾啾</p>
+<p align="center"> 
+  <a href="https://sunguoqi.com/"> 
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=暗黑啾啾;暗黑啾啾&center=true&size=27"> </a> </p>
+
 <h1 align="center"> 
   <a href="https://sunguoqi.com/"> 
     <img src="https://readme-typing-svg.herokuapp.com/?lines=不为昨日遗憾;把握当下人生&center=true&size=27"> </a> </h1>
