@@ -15,31 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-body{background-color: #ffffee;}
+<p id="aa"></p>
+<div style="display:none" id="w">人生最美的事情就是能和你相遇！</div>
+<script src="jquery.min.js"></script>
+<script type="text/javascript">
+    window.onload = type;
+    var index = 0;
+    var word = $("#w").html();
+    function type(){
+        $("#aa").html(word.substring(0,index++));
+        if(index > word.length) {
+            return;
+        } else {
+            setTimeout(type,50);
+        };
+    }
+</script>
 
-#text{height:280px;color:#df6fe1; font-size:24px;}
-
-var i=0;
-
-var str="亲爱的，遇见你是我今生最大的幸运，2018年7月7日8点16分我们在学校的操场偶遇。看到你的第一眼，我就确定了你就是我一直等待的那个人。我们从相遇到相识再到相知，我希望再到白头。余生，我想牵起你的手再也不松手！余生，我想牵起你的手再也不松手！余生，我想牵起你的手再也不松手！余生，我想牵起你的手再也不松手！";
-
-window.οnlοad=function typing(){
-
-//获取div
-
-var mydiv=document.getElementById("text");
-
-mydiv.innerHTML+=str.charAt(i);
-
-i++;
-
-var id=setTimeout(typing,80);
-
-if(i==str.length){
-
-clearTimeout(id);
-
-}
 <div align="center"> <img src="https://metrics.lecoq.io/darkchirps?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
