@@ -2,7 +2,7 @@
 
 ## title title title
 
-### <center> GRANT </center> 
+<center> GRANT </center> 
 **blablablablabalbalbalab**
 ### Hi👋I’m darkchirps(暗黑啾啾)⚡ 
 <h1 align="center"> 
