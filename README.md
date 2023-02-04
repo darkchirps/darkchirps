@@ -1,5 +1,4 @@
-###Hi👋I’m darkchirps(暗黑啾啾)⚡
-<h1 style="text-align:center;">Hi👋I’m darkchirps(暗黑啾啾)⚡</h1>
+###style="text-align:center;" Hi👋I’m darkchirps(暗黑啾啾)⚡
 
 <!--
 **darkchirps/darkchirps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
