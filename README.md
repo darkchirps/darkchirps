@@ -1,4 +1,10 @@
-###<center> Hi👋I’m darkchirps(暗黑啾啾)⚡ </center>  
+# <center> LDC </center>
+
+## title title title
+
+### <center> GRANT </center> 
+**blablablablabalbalbalab**
+### Hi👋I’m darkchirps(暗黑啾啾)⚡ 
 <h1 align="center"> 
   <a href="https://sunguoqi.com/"> 
     <img src="https://readme-typing-svg.herokuapp.com/?lines=不为昨日遗憾;把握当下人生&center=true&size=27"> </a> </h1>
