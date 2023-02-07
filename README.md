@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-darkchirps.github.io-orange" />
     </a>
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%A1+%E4%B8%8D%E4%B8%BA%E6%98%A8%E6%97%A5%E9%81%97%E6%86%BE%2C%E6%8A%8A%E6%8F%A1%E5%BD%93%E4%B8%8B%E4%BA%BA%E7%94%9F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&duration=2000&pause=1500&color=302CBC&center=true&vCenter=true&width=435&lines=%F0%9F%92%A1+%E4%B8%8D%E4%B8%BA%E6%98%A8%E6%97%A5%E9%81%97%E6%86%BE%2C%E6%8A%8A%E6%8F%A1%E5%BD%93%E4%B8%8B%E4%BA%BA%E7%94%9F" alt="Typing SVG" /></a>
 
     
 <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span>
