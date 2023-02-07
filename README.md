@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%20(blog)-darkchirps.github.io-orange" />
     </a>
 </p>
-
+[![This is me](https://readme-typing-svg.herokuapp.com?size=23&color=15485F&center=true&vCenter=true&width=1400&lines=不为昨日遗憾;把握当下人生)](https://git.io/typing-svg)
 <h1 align="center"> 
   <a href="https://sunguoqi.com/"> 
     <img src="https://readme-typing-svg.herokuapp.com/?lines=不为昨日遗憾;把握当下人生&center=true&size=27"> </a> </h1>
