@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 📈 Profile Trophy
+### 🏆 Profile Trophy
 <p><div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div></p>
-### 📈 Github Statistics
 
+### 📈 Github Statistics
 <div align="center">
     <span>&emsp;&emsp;</span>
     <img height="175px" src="https://github-readme-stats.vercel.app/api?username=blinkfox&count_private=true&show_icons=true" />
