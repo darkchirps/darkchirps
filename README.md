@@ -21,15 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🏆 Profile Trophy
-<p><div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div></p>
 
-### 📈 Github Statistics
-<div align="center">
-    <span>&emsp;&emsp;</span>
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=darkchirps&count_private=true&show_icons=true" />
-    <span>&emsp;&emsp;</span>
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkchirps&layout=compact&langs_count=8" />
-    <span>&emsp;&emsp;</span>
-</div>
 
