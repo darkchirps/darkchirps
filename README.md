@@ -1,4 +1,4 @@
-<h3 align="center">Hi👋I’m darkchirps(暗黑啾啾)⚡</h3>
+<h3 align="center">Hi👋I’m darkchirps(暗啾)⚡</h3>
 
 <p align="center">
     <a title="My Blog Site" target="_blank" href="https://darkchirps.github.io/">
